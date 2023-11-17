@@ -35,12 +35,14 @@
 > 🏆 ... Contributions in the Year 2023
  > 
 
+<details>
+  <summary>More stats</summary>
+  
 <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
   
 <hr></hr>
-
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
