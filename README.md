@@ -1,12 +1,35 @@
-# These are supported funding model platforms
+name: build
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '59 * * * *'
 
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
-custom: ['https://www.buymeacoffee.com/abhisheknaiidu', 'https://www.paypal.me/abhisheknaiidu'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2-beta
+        with: 
+          node-version: '14'
+
+      - name: Install packages
+        run: npm install
+
+      - name: (Re)build README
+        run: npm --silent run build > README.md
+
+      - name: Configure git
+        run: |
+          git config --global user.email "admin@xiaozhu.dev"
+          git config --global user.name "rust-bot"
+
+      - name: Commit README changes
+        run: |
+          git add README.md
+          git commit -m 'update README' || exit 0
+          git push
