@@ -14,11 +14,11 @@
 <p><em>Junior Data Science Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: NetBlag](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/netblag/)](https://www.linkedin.com/in/netblag/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/netblag?label=Follow)](https://twitter.com/intent/follow?screen_name=netblag)
+[![Linkedin: NetBlag](https://img.shields.io/badge/-netblag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/netblag/)](https://www.linkedin.com/in/netblag/)
 ![GitHub followers](https://img.shields.io/github/followers/netblag?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=netblag.netblag)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![Waka Readme](https://github.com/netblag/netblag/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C432%20hrs%2025%20mins-blue)
