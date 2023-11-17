@@ -4,7 +4,26 @@
 <div align="center" width="50">
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
+</p>
+ 
+<p align="center">
+  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
+</p>
+
+<p></p>
 
 
 </div>
@@ -18,7 +37,7 @@
 [![Linkedin: NetBlag](https://img.shields.io/badge/-netblag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/netblag/)](https://www.linkedin.com/in/netblag/)
 ![GitHub followers](https://img.shields.io/github/followers/netblag?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=netblag.netblag)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/netblag/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C432%20hrs%2025%20mins-blue)
