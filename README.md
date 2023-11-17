@@ -38,7 +38,8 @@
 </a>
 
 <details>
-  <summary>More stats</summary>
+  <summary>More stats</summary><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
+https://muskanrani.github.io/Portfolio/
   
 <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
