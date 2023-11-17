@@ -35,13 +35,11 @@
 > 🏆 ... Contributions in the Year 2023
  > 
 
-** I Mostly Code in Python ** 
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
-
-Python                   1 repos             █████████████████████████   100 % 
-Data Science             0 repos             ███████████░░░░░░░░░░░░░░   45.67 % 
-
-
+</details>
+  
+<hr></hr>
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
