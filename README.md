@@ -2,7 +2,7 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 <div align="center" width="50">
-<br><br> Vibing to : 🎧  </strong></p>
+<br><br> Vibing to : 🎧🦖  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
