@@ -32,7 +32,7 @@
 <details>
   <summary>More stats <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></summary>
   
-<img align="center" src=![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=netblag&theme=radical) >
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=netblag&theme=radical)
 
 </details>
   
