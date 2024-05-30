@@ -8,9 +8,13 @@
 
 </div>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Ashkan Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> 𝙰𝚜𝚑𝚔𝚊𝚗 𝚂𝚒𝚗𝚐𝚑 ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif"width="50" height="50"></h2>
 
-<p><em>Junior Data Scientist Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=3588FF&center=true&random=false&width=500&separator=%3C&lines=%F0%9D%99%B7%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%95%F0%9D%9A%98%2C+%F0%9D%99%B8%F0%9D%9A%96+%F0%9D%99%B0%F0%9D%9A%9C%F0%9D%9A%91%F0%9D%9A%94%F0%9D%9A%8A%F0%9D%9A%97+;%3C%F0%9D%99%B3%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8A+%F0%9D%9A%82%F0%9D%9A%8C%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%9C%F0%9D%9A%9D+%F0%9D%99%B4%F0%9D%9A%97%F0%9D%9A%90%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%8E%F0%9D%9A%8E%F0%9D%9A%9B+;%3C%F0%9D%99%BB%F0%9D%9A%98%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%9C+%F0%9D%99%BE%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%97+%F0%9D%9A%82%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B%F0%9D%9A%8C%F0%9D%9A%8E+%E2%9D%A4%EF%B8%8F+;%3C%F0%9D%99%B5%F0%9D%9A%98%F0%9D%9A%9B+%F0%9D%9A%8A+%F0%9D%99%BD%F0%9D%9A%98%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%8C%F0%9D%9A%8E+%F0%9D%99%B6%F0%9D%9A%98%F0%9D%9A%9D+%F0%9D%9A%8A+%F0%9D%99%BB%F0%9D%9A%98%F0%9D%9A%9D+%F0%9D%9A%83%F0%9D%9A%98+%F0%9D%99%BB%F0%9D%9A%8E%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%97+;)](https://git.io/typing-svg)
+
+
+<p><em>Junior Data Scientist Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/netblag?label=Follow&style=social)
