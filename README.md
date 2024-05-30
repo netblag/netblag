@@ -9,7 +9,7 @@
 </div>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ki שלום / I'm Ashkan Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <p><em>Junior Data Scientist Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -18,23 +18,17 @@
 ![GitHub followers](https://img.shields.io/github/followers/netblag?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=netblag.netblag)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/netblag/)
-
-
 <br/><br/>
 
 <br/>
 
-
-
-
 <div align="center" width="50">
 <details>
   <summary>More stats <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></summary>
-
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=netblag&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=netblag&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=netblag&theme=radical&utcOffset=8)
-
   
 <details>
   
@@ -42,7 +36,6 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
