@@ -41,7 +41,7 @@
 
 <h2 align="left"> 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 ⚡</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=netblag&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=netblag&theme=redical)](https://github.com/netblag)
 
 <div align="center" width="50">
 <details>
