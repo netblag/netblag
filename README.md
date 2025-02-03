@@ -13,7 +13,7 @@
 <h2> 𝙰𝚜𝚑𝚔𝚊𝚗 𝚂𝚒𝚗𝚐𝚑 ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif"width="50" height="50"></h2>
 
 
-<p><em>Junior Data Scientist Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<p><em> Data Scientist Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/netblag?label=Follow&style=social)
