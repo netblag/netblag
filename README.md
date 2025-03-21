@@ -12,6 +12,18 @@
 
 <h2> 𝙰𝚜𝚑𝚔𝚊𝚗 𝚂𝚒𝚗𝚐𝚑 ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif"width="50" height="50"></h2>
 
+<!-- 
+# Themed Icons
+
+
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=deno,devto,ubuntu,git,pytorch,tensorflow,kubernetes,docker,py,pytorch,anaconda,debian&theme=dark&perline=7" />
+  </a>
+</p>
+ -->
+
+
 
 <h2> <p><em> Data Scientist Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2> 
 </em></p>
