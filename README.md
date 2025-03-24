@@ -25,7 +25,7 @@
 
 
 
-<h2> <p><em> Data Scientist Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2> 
+<h2> <p><em> Data Scientist Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h2> 
 </em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/netblag?label=Follow&style=social)
