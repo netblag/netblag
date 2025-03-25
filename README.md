@@ -39,12 +39,13 @@
 <h2> <p><em> Data Scientist Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2> 
 </em></p>
 
-![GitHub followers](https://img.shields.io/github/followers/netblag?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=netblag.netblag)
-[![Linkedin: NetBlag](https://img.shields.io/badge/-netblag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/netblag/)](https://www.linkedin.com/in/netblag/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/netblag?label=Follow)](https://twitter.com/intent/follow?screen_name=netblag)
+![GitHub followers](https://img.shields.io/github/followers/netblag?label=Follow&style=social)![](https://visitor-badge.glitch.me/badge?page_id=netblag.netblag)
+<a href="https://www.linkedin.com/in/netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmit-mehta" height="30" width="40" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicesapien" height="30" width="40" /></a>
 <a href="https://instagram.com/netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicesapien" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25325283/netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nicesapien" height="30" width="40" /></a>
+
+
 
 <br/><br/>
 
