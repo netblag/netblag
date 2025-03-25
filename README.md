@@ -43,8 +43,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=netblag.netblag)
 [![Linkedin: NetBlag](https://img.shields.io/badge/-netblag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/netblag/)](https://www.linkedin.com/in/netblag/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/netblag?label=Follow)](https://twitter.com/intent/follow?screen_name=netblag)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/netblag/)
-[![stackowerflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/25325283/netblag)](https://stackoverflow.com/users/25325283/netblag)
+<a href="https://instagram.com/netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicesapien" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25325283/netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nicesapien" height="30" width="40" /></a>
+
 <br/><br/>
 
 <br/>
