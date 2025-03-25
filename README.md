@@ -4,7 +4,7 @@
 <div align="center" width="50">
 <br><br> Vibing to : 🎧🦖  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://readme-spotify-8eum3vngy-kaisunoo.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/user/31nm7di7h6hyikwyoo4rdhrhjdtq?si=489a4cccddeb40f2)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=3000&color=3588FF&center=true&random=false&width=500&separator=%3C&lines=%F0%9D%99%B7%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%95%F0%9D%9A%98%2C+%F0%9D%99%B8%F0%9D%9A%96+%F0%9D%99%B0%F0%9D%9A%9C%F0%9D%9A%91%F0%9D%9A%94%F0%9D%9A%8A%F0%9D%9A%97+;%3C%F0%9D%99%B3%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8A+%F0%9D%9A%82%F0%9D%9A%8C%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%9C%F0%9D%9A%9D+%F0%9D%99%B4%F0%9D%9A%97%F0%9D%9A%90%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%8E%F0%9D%9A%8E%F0%9D%9A%9B+;%3C%F0%9D%99%BB%F0%9D%9A%98%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%9C+%F0%9D%99%BE%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%97+%F0%9D%9A%82%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B%F0%9D%9A%8C%F0%9D%9A%8E+%E2%9D%A4%EF%B8%8F+;%3C%F0%9D%99%B5%F0%9D%9A%98%F0%9D%9A%9B+%F0%9D%9A%8A+%F0%9D%99%BD%F0%9D%9A%98%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%8C%F0%9D%9A%8E+%F0%9D%99%B6%F0%9D%9A%98%F0%9D%9A%9D+%F0%9D%9A%8A+%F0%9D%99%BB%F0%9D%9A%98%F0%9D%9A%9D+%F0%9D%9A%83%F0%9D%9A%98+%F0%9D%99%BB%F0%9D%9A%8E%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%97+;)
 ](https://github.com/netblag)
