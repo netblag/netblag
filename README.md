@@ -33,6 +33,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/netblag?label=Follow&style=social)![](https://visitor-badge.glitch.me/badge?page_id=netblag.netblag)
 <a href="https://www.linkedin.com/in/netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NetBlag" height="30" width="40" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NetBlag" height="30" width="40" /></a>
+<a href="https://t.me/netblag" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="30" height="40" alt="telegram logo"  /></a>
 <a href="https://instagram.com/netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="NetBlag" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25325283/netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="NetBlag" height="30" width="40" /></a>
 
