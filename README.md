@@ -32,7 +32,8 @@
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/netblag?label=Follow&style=social)![](https://visitor-badge.glitch.me/badge?page_id=netblag.netblag)
+![](https://komarev.com/ghpvc/?username=netblag&color=268F77&label=Profile+Views) ![GitHub followers](https://img.shields.io/github/followers/netblag?label=Follow&style=social)![](https://visitor-badge.glitch.me/badge?page_id=netblag.netblag)
+
 
 <a href="https://www.linkedin.com/in/netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NetBlag" height="30" width="40" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=netblag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NetBlag" height="30" width="40" /></a>
@@ -47,35 +48,19 @@
 
 <br/>
 
-<div align="center">
-  
 <h2 align="left"> 𝚃𝚘𝚘𝚕𝚜 ⚒️</h2>
 
-<p align="center"> 
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/vscode.svg" alt="VS Codium"></a> &nbsp;&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="45" height="45"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45" height="45"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/><br/><br/>
-
-</div>
-<!-- 
-<p>
-### - Tools/Interests 🔗
-<p align="center">
-<a href=""><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg" alt="Git"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/python.svg" alt="Python"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/numpy.svg" alt="Numpy"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/pandas.svg" alt="Pandas"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/jupyter.svg" alt="Jupyter"></a> &nbsp;&nbsp;
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/vscode.svg" alt="VS Codium"></a> &nbsp;&nbsp;
-</p>
--->
-
+<div align=center>
+  
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/vscode.svg" alt="VS Codium"></a> &nbsp;&nbsp; 
+  <a href="https://www.linux.org/" target="_blank"> <img  alt="GNU/Linux" title="GNU/Linux" width=45px height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="45" height="45"/> </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img  alt="Git" title="Git" width=45px height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/> </a>
+  <a href="https://github.com" target="_blank"> <img  alt="Github" title="Github" width=45px height="45" src="https://cdn.simpleicons.org/github/_/white" /></a>
+  <a href="https://www.mozilla.org/en-US/firefox/" target="_blank"> <img  alt="Firefox" title="Firefox" width=45px height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" /></a>
+<div/>
 
 <h2 align="left"> 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 ⚡</h2>
 
