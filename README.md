@@ -51,13 +51,13 @@
 <h2 align="left"> 𝚃𝚘𝚘𝚕𝚜 ⚒️</h2>
 
 <div align=center>
-  
-  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/vscode.svg" alt="VS Codium"></a> &nbsp;&nbsp; 
+  <img src="https://img.icons8.com/color/30/kali-linux" width=55px height="55"/>
   <a href="https://www.linux.org/" target="_blank"> <img  alt="GNU/Linux" title="GNU/Linux" width=45px height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="45" height="45"/> </a>
   <a href="https://git-scm.com" target="_blank">
     <img  alt="Git" title="Git" width=45px height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/> </a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/vscode.svg" alt="VS Codium"></a> &nbsp;&nbsp; 
   <a href="https://github.com" target="_blank"> <img  alt="Github" title="Github" width=45px height="45" src="https://cdn.simpleicons.org/github/_/white" /></a>
   <a href="https://www.mozilla.org/en-US/firefox/" target="_blank"> <img  alt="Firefox" title="Firefox" width=45px height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" /></a>
 <div/>
