@@ -62,7 +62,7 @@ Vibing to : 🎧🦖  </strong></p>
   <a href="https://www.mozilla.org/en-US/firefox/" target="_blank"> <img  alt="Firefox" title="Firefox" width=45px height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" /></a>
 <div/>
 
-<h2 align="left"> 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 ⚡</h2>
+<h2 align="left"> 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 :shipit: &nbsp; </h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=netblag&theme=redical)](https://github.com/netblag)
 
