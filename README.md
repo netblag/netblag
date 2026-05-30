@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="100"><br><br> </div>
+  <img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="100"></div>
 <div align="center" width="50">
 Vibing to : 🎧🦖  </strong></p>
   
@@ -44,9 +44,6 @@ Vibing to : 🎧🦖  </strong></p>
 
 </div>
 
-<br/><br/>
-
-<br/>
 
 <h2 align="left"> 𝚃𝚘𝚘𝚕𝚜 ⚒️</h2>
 
