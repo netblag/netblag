@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="100"><br><br> </div>
 <div align="center" width="50">
-<br><br> Vibing to : 🎧🦖  </strong></p>
+Vibing to : 🎧🦖  </strong></p>
   
 ![spotify-github-profile](novatorem.svg)
  
